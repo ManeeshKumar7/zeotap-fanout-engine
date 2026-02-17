@@ -1,0 +1,10 @@
+com\zeotap\SlowSink.class
+com\zeotap\Sink.class
+com\zeotap\ConsoleSink.class
+com\zeotap\UpperCaseTransformer.class
+com\zeotap\AddPrefixTransformer.class
+com\zeotap\App.class
+com\zeotap\Config.class
+com\zeotap\RateLimitedSink.class
+com\zeotap\Transformer.class
+com\zeotap\RetrySink.class

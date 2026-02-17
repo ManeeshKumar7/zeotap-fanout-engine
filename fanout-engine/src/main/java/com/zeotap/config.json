@@ -1,0 +1,7 @@
+{
+  "threadPool": 4,
+  "sinks": [
+    { "type": "console", "rate": 5 },
+    { "type": "slow", "rate": 2 }
+  ]
+}
